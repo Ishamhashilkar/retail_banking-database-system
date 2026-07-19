@@ -101,4 +101,4 @@ Full queries: [`4_analytical_queries_10.sql`](./4_analytical_queries_10.sql)
 
 ## Author
 
-*[Isha Mhashilkar]* — MS in Information Technology, aspiring SQL Developer
+*[Isha Mhashilkar]* — MSc in Information Technology, aspiring SQL Developer
